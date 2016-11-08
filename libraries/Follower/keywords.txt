@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Fader
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+SensorArray KEYWORD1
+Motors  KEYWORD1
+pid KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getDensity  KEYWORD2
+getPosition KEYWORD2
+getBit  KEYWORD2
+getArray    KEYWORD2
+Update  KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
